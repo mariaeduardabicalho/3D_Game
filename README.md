@@ -1,3 +1,5 @@
+
+[Narrativa.pdf](https://github.com/mariaeduardabicalho/3D_Game/files/6456344/Narrativa.pdf)
 # 3D_Game
 
 ### GDD:
@@ -6,5 +8,9 @@
 
 ### Storyboard
 
-[Storyboard  Procurando Dori - O JOGO.pdf](https://github.com/mariaeduardabicalho/3D_Game/files/6456192/Storyboard.Procurando.Dori.-.O.JOGO.pdf)
+[Storyboard  Procurando Dori - O JOGO (2).pdf](https://github.com/mariaeduardabicalho/3D_Game/files/6456343/Storyboard.Procurando.Dori.-.O.JOGO.2.pdf)
+
+### Narrativa
+
+[Narrativa.pdf](https://github.com/mariaeduardabicalho/3D_Game/files/6456344/Narrativa.pdf)
 
